@@ -1,0 +1,16 @@
+{
+  "name": "lecture4-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-core-modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "faker": "^5.5.3",
+    "graphql-editor": "^4.1.6"
+  }
+}
